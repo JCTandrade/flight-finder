@@ -11,11 +11,11 @@ El sistema está dividido en microservicios independientes que se comunican medi
 
 Estructura general:
 
-- 📦 [flight-finder-ms-bd](https://github.com/tu-usuario/flight-finder-ms-bd)
-- 🔐 [flight-finder-ms-login](https://github.com/tu-usuario/flight-finder-ms-login)
-- 🔎 [flight-finder-ms-search](https://github.com/tu-usuario/flight-finder-ms-search)
-- 👤 [flight-finder-ms-users](https://github.com/tu-usuario/flight-finder-ms-users)
-- 🎨 [flight-finder-front](https://github.com/tu-usuario/flight-finder-front)
+- 📦 [flight-finder-ms-bd](https://github.com/DistributedSystemsCorhuila/flight-finder-ms-bd)
+- 🔐 [flight-finder-ms-login](https://github.com/DistributedSystemsCorhuila/flight-finder-ms-login)
+- 🔎 [flight-finder-ms-search](https://github.com/DistributedSystemsCorhuila/flight-finder-ms-search)
+- 👤 [flight-finder-ms-users](https://github.com/DistributedSystemsCorhuila/flight-finder-ms-users)
+- 🎨 [flight-finder-front](https://github.com/DistributedSystemsCorhuila/flight-finder-front)
 
 
 Cada servicio puede ejecutarse de manera independiente.
@@ -66,7 +66,7 @@ Aplicación frontend desarrollada en Angular para:
 - Microservicios feign para comunicación entre servicios
 
 ### 🔹 Base de Datos
-- (Especificar: PostgreSQL)
+- PostgreSQL
 
 ### 🔹 Frontend
 - Angular
